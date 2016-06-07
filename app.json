@@ -7,19 +7,19 @@
   "env": {
     "APP_NAME": {
       "description": "Copy App Name here",
-      "value": ""
+      "value": "AAABot"
     },
     "TELEGRAM_TOKEN": {
       "description": "Telegram bot token",
-      "value": ""
+      "value": "172515444:AAEi1wJsqT8E0c9xAK3W-Y2FryPW6jKKATk"
     },
     "APIAI_ACCESS_TOKEN": {
       "description": "Client access token for Api.ai",
-      "value": ""
+      "value": "26115f61ebf14d199865667cea240d48"
     },
     "APIAI_LANG": {
       "description": "Agent language",
-      "value": "en",
+      "value": "fr",
       "required": false
     }
   },
